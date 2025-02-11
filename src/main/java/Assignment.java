@@ -30,5 +30,7 @@ public class Assignment {
         myIntArray [1] = 25;
         myIntArray [2] = 30;
     }
+    public static void main (String[] args) {
+    }
 
 }
